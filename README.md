@@ -28,7 +28,7 @@ The following environment variables can be passed at runtime:
 | `LANGUAGE` | `EN`    | Interface language       |
 | `COUNTRY`  | `EN`    | Country configuration    |
 
-Les valeurs possibles: AL,BE,BD,BF,BI,BR,CD,CG,CI,CM,EN,ES,FR,GA,GN,KE,LK,ML,NE,NG,NL,PE,PT,RW,SN,TZ,UG or ZM
+Possible values: `AL`, `BE`, `BD`, `BF`, `BI`, `BR`, `CD`, `CG`, `CI`, `CM`, `EN`, `ES`, `FR`, `GA`, `GN`, `KE`, `LK`, `ML`, `NE`, `NG`, `NL`, `PE`, `PT`, `RW`, `SN`, `TZ`, `UG`, `ZM`
 
 Example with custom configuration:
 
