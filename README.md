@@ -17,7 +17,7 @@ docker run -d \
   openclinic
 ```
 
-Access the application at: http://localhost:10088
+Access the application at: http://localhost:10088/openclinic
 
 ## Configuration
 
